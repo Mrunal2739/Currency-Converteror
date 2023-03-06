@@ -150,9 +150,14 @@ package currencyconvert;
                  }catch(Exception e){ 
                  
                      numOutput.setText("Please enter a valid number."); 
+                     
                  } 
+                 
              } 
          } 
-     }); 
+         
+     });
+     
  } 
+ 
  }
